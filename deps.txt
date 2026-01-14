@@ -17,3 +17,4 @@ udiskie
 matugen-bin
 hypridle
 hyprlock
+rsync
