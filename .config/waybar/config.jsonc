@@ -6,8 +6,8 @@
     ],
     "layer": "top",
     "modules-left": [
-      "clock"
-      // "custom/mullvad"
+      "clock",
+      "custom/mullvad"
     ],
     "modules-center": [
       "custom/notification",
